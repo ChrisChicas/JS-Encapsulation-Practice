@@ -2,15 +2,36 @@
   "cart": [
     {
       "id": 1,
-      "name": "Avery's Sandwich",
-      "bread": "Sourdough",
+      "name": "Chris's Sandwhich",
+      "bread": "White",
       "ingredients": [
         "Cheddar Cheese",
         "Mayo",
+        "Tomatoes",
+        "American Cheese*",
+        "Parmesan Cheese",
+        "Onions"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mike's Boomwhich",
+      "bread": "Sourdough",
+      "ingredients": [
         "Ham",
-        "Bacon",
+        "Turkey",
+        "Bacon"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mike's Boomwhich",
+      "bread": "Sourdough",
+      "ingredients": [
+        "Ham",
         "Lettuce",
-        "Tomatoes"
+        "Tomatoes",
+        "Onions"
       ]
     }
   ],
